@@ -1,0 +1,16 @@
+{
+  "name": "phillcode-rpg-combat-cata",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -w -R min ./test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "chai": "^4.4.1",
+    "mocha": "^10.2.0"
+  }
+}
